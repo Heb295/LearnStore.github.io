@@ -36,7 +36,7 @@ export default defineUserConfig({
     "!node_modules",
   ],
 
-//   plugins: [
+   plugins: [
 //     // algolia 全文搜索：没设置爬虫的话，需删除 docsearchPlugin 区块以使用节点搜索
 //     docsearchPlugin({
 //       indexName: "newzone",
